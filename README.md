@@ -175,6 +175,3 @@ Built with love, caffeine, and pixels by **@verlyra**
 > “Hack your routine, in pixel mode.” 
 
 ---
-
-```
-
