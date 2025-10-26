@@ -1,0 +1,19 @@
+{
+  "name": "pixel_life_hub",
+  "version": "0.1.0",
+  "homepage": "https://verlyra.github.io/Bytecr4cker-StudentDashboard",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "nes.css": "^2.2.1"
+  }
+}
